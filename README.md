@@ -4,7 +4,7 @@ Este proyecto tiene 3 propósitos principales:
 * Crear mi pagina personal donde publicar mis juegos a modo de blog.
 * Darle una presentacion más elegante a mi portafolio.
 
-## El diseño de la pagina desarrollado en Figma
+## El diseño de la pagina desarrollado en [Figma](https://www.figma.com/file/qyxWQrQQGzXVHYLOMDJwNP/Zero?node-id=0%3A1)
 <img src="https://github.com/JulianPariss/Zero/blob/main/Figma.png">
 
 
